@@ -1,6 +1,12 @@
-## Unity C# Developer
+## Game Developer
 
-- 🌱 I’m currently learning `Unity Engine` & `C#` & `Shader`
+- 🌱 I’m currently learning...
+  - `Unity Engine`
+  - `Unreal Engine`
+  - `C#`
+  - `C++`
+  - `Shader`
+
 - Blog : <https://rito15.github.io/>
 
 <br>
