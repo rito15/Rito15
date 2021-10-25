@@ -1,4 +1,4 @@
-## Game Developer
+## Game Programmer
 
 - 🌱 I’m currently learning...
   - `Unity Engine`
